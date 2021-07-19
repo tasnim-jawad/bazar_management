@@ -1,0 +1,55 @@
+body {
+    background-color: #80808061;
+}
+#cost{
+    margin-top: 100px;
+}
+#cost .atm {
+    width: 700px;
+    border: 3px solid #193cb0a6;
+    margin: 0 auto;
+    background-image: url(..//img/pngtree-fresh-bank-card-machine-advertising-background-backgroundblue-backgroundmanmoneyhand-paintedatmsimplemachine-image_83842.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 20px 0px;
+    border-radius: 10px;
+    box-shadow: 15px 17px 15px #4589d2;
+}
+#cost .atm .top{
+    position: relative;
+}
+#cost .atm .top .input_set {
+    /* border: 1px solid yellow; */
+    padding: 10px 20px;
+    text-align: right;
+    /* background-color: coral; */
+    
+}
+#cost .atm .top .input_set label {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px 20px;
+}
+#cost .atm .top .input_set input {
+    padding: 15px 10px;
+    border-radius: 5px;
+    background-color: #ffebab;
+    width: 74px;
+    border: 1px solid #8a887b7d;
+    box-shadow: 2px 2px 2px red;
+}
+#cost .atm .top .input_set button {
+    margin-left: 50px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #ffcf33;
+    box-shadow: 2px 2px 2px;
+}
+#cost .atm .top .chip img {
+    position: absolute;
+    width: 90px;
+    height: 80px;
+    left: 90px;
+    top: 105px;
+}
